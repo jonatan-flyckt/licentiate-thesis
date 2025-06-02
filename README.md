@@ -2,7 +2,10 @@
 # Licentiate Thesis – Jonatan Flyckt
 ---
 jonatan.flyckt@bth.se
-Blekinge Institute of Technology, Department of Software Engineering
+
+Blekinge Institute of Technology,
+
+Department of Software Engineering
 
 ## Overview
 
