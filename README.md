@@ -1,8 +1,8 @@
 ---
 # Licentiate Thesis – Jonatan Flyckt
+---
 jonatan.flyckt@bth.se
 Blekinge Institute of Technology, Department of Software Engineering
----
 
 ## Overview
 
@@ -16,4 +16,4 @@ Building on the findings in the case study, a position paper argues for demand f
 - [Ditch Detection Paper (published)](ditch_detection.pdf)
 - [Case Study Paper (under revision)](case_study.pdf)
 - [Position Paper (accepted)](position_paper.pdf)
-- [Intermittent Forecasting Paper (in submission)](global_intermittent_forecasting.pdf)
+- [Intermittent Forecasting Paper (in submission)](global_intermittent_demand_forecasting.pdf)
