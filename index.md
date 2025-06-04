@@ -1,6 +1,5 @@
-# Decision Support through Global Demand Forecasting:
-
-## Challenges and Directions in Make-To-Order Manufacturing Organisations
+<h1 style="margin-bottom: 0;">Decision Support through Global Demand Forecasting</h1>
+<p style="font-size: 1.1em; margin-top: 0;">Challenges and Directions in Make-To-Order Manufacturing Organisations</p>
 
 Licentiate Thesis – Jonatan Flyckt
 
