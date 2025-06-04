@@ -1,5 +1,5 @@
 <h1 style="margin-bottom: 0;">Decision Support through Global Demand Forecasting</h1>
-<p style="font-size: 2em; margin-top: 0;">Challenges and Directions in Make-To-Order Manufacturing Organisations</p>
+<h2 style="font-size: 1.6em; font-weight: normal; margin-top: 0.1em;">Challenges and Directions in Make-To-Order Manufacturing Organisations</h2>
 
 Licentiate Thesis – Jonatan Flyckt
 
