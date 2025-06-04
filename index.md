@@ -1,8 +1,6 @@
----
-title: "AI Decision Support through Global Demand Forecasting: Challenges and Directions in Make-To-Order Manufacturing Organisations"
----
+# AI Decision Support through Global Demand Forecasting: Challenges and Directions in Make-To-Order Manufacturing Organisations
 
-<span style="font-size: 0.9em;">Licentiate Thesis – Jonatan Flyckt</span>
+Licentiate Thesis – Jonatan Flyckt
 
 jonatan.flyckt@bth.se
 
