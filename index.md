@@ -21,4 +21,4 @@ Building on the findings in the case study, a position paper argues for demand f
 
 - Flyckt, J., Lavesson, N. (2025, June). *Navigating demand forecasting in make-to-order manufacturing: The role of global models and intermittent time-series* [Conference presentation]. Swedish AI Society Workshop (SAIS), Halmstad, Sweden. [[PDF](position_paper.pdf)]
 
-- Flyckt, J., Westphal, F., Lavesson, N. *Forecasting and evaluating intermittent demand with timing-aware global models and heterogeneous data* [Manuscript in preparation]. To be submitted to the International Journal of Forecasting. [[Abstract PDF](abstract_forecasting_paper.pdf)]
+- Flyckt, J., Westphal, F., Lavesson, N. *Forecasting and evaluating intermittent demand with timing-aware global models and heterogeneous data* [Manuscript in submission]. International Journal of Forecasting. [[PDF](intermittent_forecasting.pdf)]
