@@ -17,8 +17,8 @@ Building on the findings in the case study, a position paper argues for demand f
 
 - Flyckt, J., Andersson, F., Lavesson, N., Nilsson, L., & Ågren, A. M. (2022). Detecting ditches using supervised learning on high-resolution digital elevation models. *Expert Systems with Applications, 201*, 116961. https://doi.org/10.1016/j.eswa.2022.116961 [[PDF](ditch_detection.pdf)]
 
-- Flyckt, J., Gorschek, T., Mendez, D., Lavesson, N. *Identifying key AI challenges in make-to-order manufacturing organisations: A multiple case study* [Manuscript under revision]. Journal of Systems and Software. [[PDF](case_study.pdf)]
+- Flyckt, J., Gorschek, T., Mendez, D., Lavesson, N. *Identifying key AI challenges in make-to-order manufacturing organisations: A multiple case study* [Manuscript accepted for publication]. Journal of Systems and Software. [[PDF](case_study.pdf)]
 
 - Flyckt, J., Lavesson, N. (2025, June). *Navigating demand forecasting in make-to-order manufacturing: The role of global models and intermittent time-series* [Conference presentation]. Swedish AI Society Workshop (SAIS), Halmstad, Sweden. [[PDF](position_paper.pdf)]
 
-- Flyckt, J., Westphal, F., Lavesson, N. *Forecasting and evaluating intermittent demand with timing-aware global models and heterogeneous data* [Manuscript in submission]. International Journal of Forecasting. [[PDF](intermittent_forecasting.pdf)]
+- Flyckt, J., Westphal, F., Lavesson, N. *Forecasting and evaluating intermittent demand with timing-aware global models and heterogeneous data* [Manuscript in submission]. . [[PDF](intermittent_forecasting.pdf)]
